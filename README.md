@@ -1,2 +1,32 @@
-# yeah-roomcast-downloads
-Official Android APK downloads for Yeah RoomCast
+# Yeah同屏
+
+**相隔两地，也能一起看到同一幕。**
+
+Yeah同屏是一款异地同看工具。开一个房间，邀请朋友加入，用双方都能访问的片源一起播放。房主暂停、拖动进度或切换片源，房间成员可以同步跟上。
+
+[下载最新版本](https://github.com/kkkran/yeah-roomcast-downloads/releases/latest) · [所有版本](https://github.com/kkkran/yeah-roomcast-downloads/releases) · [产品官网](https://roomcast.yeshijie.top/)
+
+## 有什么不同
+
+- **用房间约一场电影**。用房间码或二维码把朋友带进同一房间，边看边聊。进度统一后，可以从同一个时间点继续。
+- **把一起看过的片留下来**。在双人空间共建片单，记下想看的节目，也可以保存一起看过的观影回忆。
+- **使用自己有权访问的片源**。两端各自从来源播放，Yeah同屏负责同步房间和播放状态。手动粘贴可播放的片源链接即可开始。
+
+## 下载与安装
+
+| 平台 | 系统要求 | 安装包 |
+| --- | --- | --- |
+| Android | Android 10 或以上 | 已签名 APK，下载后在设备上安装 |
+| iOS | iOS 16 或以上，arm64 设备 | 未签名 IPA，安装前需自行签名 |
+
+在 [Releases](https://github.com/kkkran/yeah-roomcast-downloads/releases) 中展开对应版本的 Assets，选择适合设备的安装包。各版本的说明会列出本次更新，附件中的 `.sha256` 文件可用于校验下载。
+
+## 第一次同看
+
+1. 一人创建房间，将房间码或二维码分享给另一人。
+2. 对方加入后，由房主选择双方都有权访问且可以播放的片源。
+3. 开始播放。看完后，可以在双人空间把这次观影记下来。
+
+## 反馈
+
+遇到登录、入房或播放问题，可以通过应用内的反馈入口说明操作步骤，并附上设备型号、系统版本和应用版本号。
