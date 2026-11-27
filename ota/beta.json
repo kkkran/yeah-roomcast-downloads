@@ -1,40 +1,40 @@
 {
   "schema": 1,
   "android": {
-    "versionCode": 1261125001,
-    "versionName": "2.0.1125-beta",
-    "releaseNote": "会员支付链路稳定性优化：\n1. 优化微信支付调起后的订单状态刷新时机，返回页面即可及时同步支付结果。\n2. 同套餐存在未完成订单时新增明确提示，引导继续原订单支付或先取消旧单。\n3. 服务端同步加固支付状态收敛、取消与恢复并发保护及管理后台会员套餐配价。\n\n\n- Android 提供正式签名 APK。\n- iOS 提供未签名 IPA，安装前需自行签名。\n- 两个安装包均附 SHA-256 校验文件。\n",
-    "sizeBytes": 70257628,
-    "sha256": "c5515338bf64d5c865750280b1f01f4a0adc8f9bc8736a50127b87d5b06cb356",
+    "versionCode": 1261127001,
+    "versionName": "2.0.1127-beta",
+    "releaseNote": "Yeah 同屏 2.0.1127-beta 双端候选构建。\n\n\n- Android 提供正式签名 APK。\n- iOS 提供未签名 IPA，安装前需自行签名。\n- 两个安装包均附 SHA-256 校验文件。\n",
+    "sizeBytes": 70741070,
+    "sha256": "fdf0da7bf9c500c84ca1b6d02becd8f4e1c51250113754fc63e583d70e47465d",
     "sources": [
       {
         "name": "GitHub",
-        "url": "https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261125001/Yeah-RoomCast-2.0.1125-beta.apk"
+        "url": "https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261127001/Yeah-RoomCast-2.0.1127-beta.apk"
       },
       {
         "name": "gh-proxy.com",
-        "url": "https://gh-proxy.com/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261125001/Yeah-RoomCast-2.0.1125-beta.apk"
+        "url": "https://gh-proxy.com/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261127001/Yeah-RoomCast-2.0.1127-beta.apk"
       }
     ]
   },
   "ios": {
-    "versionCode": 1261125001,
-    "versionName": "2.0.1125-beta",
-    "releaseNote": "会员支付链路稳定性优化：\n1. 优化微信支付调起后的订单状态刷新时机，返回页面即可及时同步支付结果。\n2. 同套餐存在未完成订单时新增明确提示，引导继续原订单支付或先取消旧单。\n3. 服务端同步加固支付状态收敛、取消与恢复并发保护及管理后台会员套餐配价。\n\n\n- Android 提供正式签名 APK。\n- iOS 提供未签名 IPA，安装前需自行签名。\n- 两个安装包均附 SHA-256 校验文件。\n",
-    "sizeBytes": 15936712,
-    "sha256": "fadde426f57b102c0fb089b0ec6148f70df700862ff4a66cf12b4632ed1c2f1e",
+    "versionCode": 1261127001,
+    "versionName": "2.0.1127-beta",
+    "releaseNote": "Yeah 同屏 2.0.1127-beta 双端候选构建。\n\n\n- Android 提供正式签名 APK。\n- iOS 提供未签名 IPA，安装前需自行签名。\n- 两个安装包均附 SHA-256 校验文件。\n",
+    "sizeBytes": 17449456,
+    "sha256": "84ebacc592294eb4dcc9f0b75591b47a033ccd4383c98467b402651abd7f3731",
     "sources": [
       {
         "name": "GitHub",
-        "url": "https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261125001/Yeah-RoomCast-iOS-2.0.1125-beta-unsigned.ipa"
+        "url": "https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261127001/Yeah-RoomCast-iOS-2.0.1127-beta-unsigned.ipa"
       },
       {
         "name": "gh-proxy.com",
-        "url": "https://gh-proxy.com/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261125001/Yeah-RoomCast-iOS-2.0.1125-beta-unsigned.ipa"
+        "url": "https://gh-proxy.com/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261127001/Yeah-RoomCast-iOS-2.0.1127-beta-unsigned.ipa"
       },
       {
         "name": "ghproxy.net",
-        "url": "https://ghproxy.net/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261125001/Yeah-RoomCast-iOS-2.0.1125-beta-unsigned.ipa"
+        "url": "https://ghproxy.net/https://github.com/kkkran/yeah-roomcast-downloads/releases/download/android-1261127001/Yeah-RoomCast-iOS-2.0.1127-beta-unsigned.ipa"
       }
     ]
   }
